@@ -1,7 +1,7 @@
 venturer
 ========
 
-venturer is a simple command-line game designed to help you (yes, _you_) learn artificial intelligence by writing Python 
+venturer is a simple command-line game designed to help you (yes, *you*) learn artificial intelligence by writing Python 
 code and playing a simple game. It honestly doesn't get better. Features (will) include:
 
 * Immediate feedback on code samples

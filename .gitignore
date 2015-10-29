@@ -1,6 +1,9 @@
 # Compiled python modules.
 *.pyc
 
+# PyCharm IDE files.
+/.idea/
+
 # Setuptools distribution folder.
 /dist/
 
